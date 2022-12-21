@@ -1,5 +1,13 @@
 # main links
 main:
+  # - title: "Home"
+  #   url: "/"
+  - title: "Introduce"
+    url: /about/
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tags"
+    url: /tags/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -10,11 +18,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-    - title: "Introduce"
-      url: /about/
-    - title: "Category"
-      url: "/categories/"
-    - title: "Tags"
-      url: /tags/
-
-#카테코리 테스트  

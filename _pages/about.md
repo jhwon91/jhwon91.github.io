@@ -1,8 +1,27 @@
 ---
 permalink: /about/
-title: "About"
-toc: true   # toc: 목차 (클릭 시 화면 이동까지 가능)
-toc_sticky: true   # toc_sticky: true로 만들어주면 , 화면을 옮겨도 (스크롤을 해도) 항상 우특 상단에 고정
-toc_label: "MYSELF" # toc_label: toc의 제목, 지정하지 않으면 기본값 (MY PAGE)
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
-![icon](/assets/)
+
+<!-- ![icon](/assets/logo.ico/apple-icon-120x120.png){: .align-left} -->
+
+ 📌 <br>
+ <br>
+{: .notice--info} 
+
+**Main Skil** : `Javascript` `Typescript` 
+<br>
+
+### 🏫 학력사항
+
+### 📝 경력사항
+
+### 📚 프로젝트
+
+### 🏃🏻‍♀️ 활동사항
+
+### 🏆 수상사항
+
+### 🏅 장학사항
